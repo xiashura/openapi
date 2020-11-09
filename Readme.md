@@ -1,0 +1,1 @@
+exampel openapi 3.0
